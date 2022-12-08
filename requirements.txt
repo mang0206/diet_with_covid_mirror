@@ -1,7 +1,7 @@
 astroid==2.4.2
 bcrypt==3.2.0
 catboost==1.0.3
-certifi==2021.10.8
+certifi==2022.12.7
 cffi==1.15.0
 click==8.0.3
 colorama==0.4.4
